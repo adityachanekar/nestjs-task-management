@@ -41,7 +41,7 @@ export class TasksController {
     
     @Post()
     @UsePipes(ValidationPipe)
-    creatTask(
+    createTask(
         @Body() createTaskDto: CreateTaskDto,
         @GetUser() user: User,
         

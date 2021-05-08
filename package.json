@@ -40,7 +40,7 @@
     "@types/node": "^13.9.1",
     "ts-node": "^8.6.2",
     "typescript": "^3.7.4",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.0.0",
